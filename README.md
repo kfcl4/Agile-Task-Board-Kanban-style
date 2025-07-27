@@ -15,7 +15,7 @@ This is a full-stack Task Board application built with FastAPI (backend) and Rea
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <url>
 cd GensparkTask
 ```
 
